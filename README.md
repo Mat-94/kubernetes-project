@@ -119,6 +119,8 @@ kubectl get pods -n kube-system
 2. Locate the DNS name of the ALB created for your application.
 3. Copy the DNS name and paste it into your browser's address bar.
 You should see the deployed game application interface.
+![IMG_2105](https://github.com/user-attachments/assets/d8e7e047-b032-4b13-8c1c-8aefb6af065e)
+
 ### Project Outcome
 This project demonstrates the following:
 - Setting up an Amazon EKS cluster using `eksctl`.
